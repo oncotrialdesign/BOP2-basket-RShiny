@@ -1,0 +1,23 @@
+Package: BOP2basket
+Type: Package
+Title: Bayesian Optimal Phase II (BOP2) Design for Basket Trials
+Version: 0.1.0
+Authors@R:
+    person("Philip", "He", email = "philip.he@daiichisankyo.com", role = c("aut", "cre"))
+Description: Implements simulation utilities for Bayesian hierarchical model (BHM)
+    and calibrated Bayesian hierarchical model (CBHM) borrowing in basket trials,
+    including calibration parameter selection for CBHM.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports:
+    stats,
+    utils
+Suggests:
+    R2jags,
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0
