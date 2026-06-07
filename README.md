@@ -8,7 +8,7 @@ install.packages("devtools")
 
 #Install package BOP2basket
 
-devtools::install_github("oncotrialdesign/BOP2basket-RShiny")
+devtools::install_github("oncotrialdesign/BOP2-basket-RShiny")
 
 #To browse the package functions, type
 
