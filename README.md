@@ -3,7 +3,7 @@ BOP2-basket Trial Design
 
 # Reference: 
 
-He T, Ren Y, Zhou H. Bayesian optimal phase II (BOP2) design for basket trials. Stat Biopharm Res. 2025;1-10. 
+He T, Ren Y, Zhou H. Bayesian optimal phase II (BOP2) design for basket trials. *Stat Biopharm Res.* 2025;1-10. 
 
 # Instructions to download and install
 ## Install devtools if not installed
