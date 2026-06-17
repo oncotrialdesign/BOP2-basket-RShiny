@@ -1,15 +1,19 @@
 # BOP2-basket-RShiny
-BOP2-basket Trial Design by He et al. 2025. Reference: He T, Ren Y, Zhou H. Bayesian optimal phase II (BOP2) design for basket trials. Stat Biopharm Res. 2025;1-10. 
+BOP2-basket Trial Design 
 
-Instructions to download and install
-#Install devtools if not installed
+# Reference: 
 
-install.packages("devtools")
+He T, Ren Y, Zhou H. Bayesian optimal phase II (BOP2) design for basket trials. Stat Biopharm Res. 2025;1-10. 
 
-#Install package BOP2basket
+# Instructions to download and install
+## Install devtools if not installed
 
-devtools::install_github("oncotrialdesign/BOP2-basket-RShiny")
+```install.packages("devtools")```
 
-#To browse the package functions, type
+## Install package ```BOP2basket```
 
-help(package="BOP2basket")
+```devtools::install_github("oncotrialdesign/BOP2-basket-RShiny")```
+
+## To browse the package functions, type
+
+```help(package="BOP2basket")```
